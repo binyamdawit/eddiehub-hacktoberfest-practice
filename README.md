@@ -375,6 +375,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Bhuvnesh Sharma](https://github.com/Bhuvnesh875)
   - [Bikram Ghuku](https://github.com/Bikram-ghuku)
   - [Bineet Naidu](https://github.com/bineetNaidu)
+  - [Binyam Dawit](https://github.com/binyamdawit)
   - [Biresh Biswas](https://github.com/Billa05)
   - [Bisesh Adhikari](https://github.com/Biseshadhikari)
   - [Bismeet Singh](https://github.com/BismeetSingh)
